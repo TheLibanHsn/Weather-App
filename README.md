@@ -1,2 +1,2 @@
 # Weather-App
-Created with CodeSandbox
+Created weather-app using React Js and openWeatherApi 
